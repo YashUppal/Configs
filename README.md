@@ -1,2 +1,4 @@
 # Configs
-Configs and dotfiles for arch linux setup
+Configs and dotfiles for i3 and i3 blocks
+
+
