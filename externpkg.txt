@@ -1,0 +1,6 @@
+materia-theme
+paper-gtk-theme-git
+paper-icon-theme-git
+polybar
+python-pywal
+visual-studio-code-bin
