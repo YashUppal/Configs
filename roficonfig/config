@@ -1,0 +1,5 @@
+rofi.theme: /usr/share/rofi/themes/DarkBlue.rasi
+
+# Light theme.
+#Setting rofi colours according to pywal
+rofi.theme: ~/.cache/wal/colors-rofi-light.rasi
